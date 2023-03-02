@@ -6,7 +6,7 @@
 'use strict';
 
 
-const ConvenientFormset = function(options) {
+function ConvenientFormset(options) {
     /* Available options */
     const availableOptions = {
         // Generic options
